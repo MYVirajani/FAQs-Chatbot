@@ -88,7 +88,7 @@ streamlit run app.py
 | "What is machine learning?" | "What is machine learning?" | 100% |
 | "How does AI differ from ML?" | "What is the difference between AI and ML?" | 82% |
 | "explain neural networks" | "What is a neural network?" | 100% |
-| "what's the weather today?" | — | ❌ I'm sorry, I don't have an answer for that question. Try rephrasing, or ask something about AI & Machine Learning! |
+| "what's the weather today?" | — |  I'm sorry, I don't have an answer for that question. Try rephrasing, or ask something about AI & Machine Learning! |
 
 
 
